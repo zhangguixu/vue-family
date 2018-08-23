@@ -1,0 +1,17 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "vue practice",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
